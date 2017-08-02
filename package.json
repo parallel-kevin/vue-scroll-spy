@@ -1,0 +1,11 @@
+{
+  "name": "vue-scroll-spy",
+  "version": "1.1.0",
+  "description": "scrollSpy for vue",
+  "main": "ScrollSpy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevin xu",
+  "license": "ISC"
+}
